@@ -4,10 +4,10 @@
 # 실행창 순서
 
 * 1. 
-./readme/1.png
+./assets/1.png
 
 * 2.
-./readme/2.png 
+./assets/2.png 
 
 * 3.
-./readme/3.png 
+./assets/3.png 
