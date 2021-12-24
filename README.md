@@ -1,5 +1,5 @@
-# toy-projects
-토이 프로젝트들
+# toy-project
+웹 토이프로젝트
 
 # 실행창 순서
 
